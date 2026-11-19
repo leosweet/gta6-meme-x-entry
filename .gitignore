@@ -1,0 +1,4 @@
+# Local run output from `node main.ts` (recreated by the run command in README.md).
+out/
+# Python bytecode from the meme build script.
+__pycache__/
